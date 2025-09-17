@@ -14,7 +14,8 @@ It demonstrates how to streamline **detection, investigation, and remediation** 
 ---
 
 ## 📂 Repository Contents
-- `reports/analysis_report.md` → Incident response playbook walkthrough & investigation steps  
+- `reports/analysis_report.md` → Incident response playbook walkthrough & investigation steps
+- `alert_ticket.pdf` → Completed alert ticket with investigation details and resolution notes  
 
 ---
 
