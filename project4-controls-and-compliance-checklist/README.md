@@ -46,7 +46,7 @@ The repository includes:
 
 ## 📂 Repository Contents
 - `analysis_report.md` → Detailed risk assessment and recommendations.  
-- `checklist.xlsx` → Controls and compliance checklist file.  
+- `checklist.pdf` → Controls and compliance checklist file.  
 
 ---
 
