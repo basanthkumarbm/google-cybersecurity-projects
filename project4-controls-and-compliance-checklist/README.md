@@ -1,49 +1,59 @@
-# Controls and Compliance Checklist: Botium Toys Risk Assessment
+# Controls and Compliance Checklist: Botium Toys
 
 ## 📌 Overview
-This repository contains a **Controls and Compliance Checklist** and a **risk assessment report** for Botium Toys.  
-It documents the company’s current asset management, security controls, compliance adherence, and recommendations for improving their security posture.
+This repository documents the **controls and compliance assessment** for Botium Toys, focusing on **risk management, security standards, and regulatory adherence**.  
+
+The repository includes:
+- A **detailed risk assessment report** of Botium Toys' assets, IT environment, and controls.  
+- A **controls and compliance checklist** to identify gaps in security practices.  
 
 ---
 
-## 🔎 Scope and Goals
+## 🔎 Scope & Goals
 **Scope:**  
-- Entire security program at Botium Toys, including employee equipment, internal network, systems, and store products.  
+- Entire security program at Botium Toys, including employee devices, internal network, systems, and storefront products.  
 
 **Goals:**  
-- Assess existing assets and controls.  
-- Complete a **controls and compliance checklist**.  
-- Identify improvements to enhance Botium Toys’ **security posture**.
+- Assess existing assets and IT controls.  
+- Identify gaps and implement controls to strengthen the company’s **security posture**.  
 
 ---
 
-## ⚠️ Current Risk Assessment
-- **Risk score:** 8/10 (fairly high)  
-- **Potential impact:** Medium to high for loss of assets or regulatory fines  
-- **Key findings:**
-  - All employees have access to internal data, including cardholder and PII/SPII data.  
-  - Lack of encryption for sensitive data.  
-  - Limited access controls and no separation of duties.  
-  - No intrusion detection system (IDS) or disaster recovery plan.  
-  - Weak password policy and no centralized management system.  
+## ⚠️ Key Findings
+- Inadequate asset management and incomplete implementation of security controls.  
+- Partial compliance with U.S. and international regulations.  
+- High risk score: **8/10** due to missing controls and non-adherence to best practices.  
+
+**Notable gaps include:**  
+- All employees can access internal data, including PII/SPII.  
+- No encryption for sensitive data like credit card information.  
+- Missing access controls (least privilege, separation of duties).  
+- No intrusion detection system (IDS).  
+- No disaster recovery plan or critical data backups.  
+- Weak password policies and no centralized password management.  
+- Legacy system maintenance schedule unclear.  
 
 ---
 
-## 🛡️ Controls and Best Practices
-- Firewalls block traffic based on security rules.  
-- Antivirus software installed and monitored.  
-- Physical security measures: locks, CCTV, fire detection/prevention.  
-- Privacy policies and breach notification plans in place.  
+## 🛡️ Existing Controls
+- Firewalls with predefined rules.  
+- Antivirus software monitored regularly.  
+- Data integrity measures in place.  
+- Physical security: locks, CCTV, and fire detection systems.  
+- EU breach notification plan and privacy procedures enforced.  
 
 ---
 
 ## 📂 Repository Contents
-- `reports/analysis_report.md` → Detailed controls and compliance checklist and risk assessment  
-- `assets/` → Optional folder for diagrams, screenshots, or templates  
+- `analysis_report.md` → Detailed risk assessment and recommendations.  
+- `checklist.xlsx` → Controls and compliance checklist file.  
 
 ---
 
-## 📖 References
-- NIST Cybersecurity Framework (CSF)  
-- U.S. and international compliance standards  
-- IT asset and risk management best practices
+## 📖 Recommendations
+- Strengthen access controls and enforce least privilege.  
+- Implement encryption for sensitive data storage and transmission.  
+- Install and monitor an IDS.  
+- Develop a disaster recovery plan and schedule regular backups.  
+- Enforce stronger password policies and centralized password management.  
+- Schedule regular maintenance and monitoring for legacy systems.  
