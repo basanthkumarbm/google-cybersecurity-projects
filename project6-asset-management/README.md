@@ -1,32 +1,38 @@
-# Asset Management: Inventory and Classification
+# Asset Management: Home Office Network Inventory
 
 ## 📌 Overview
 This repository documents the implementation of **asset management practices** to identify, classify, and track organizational assets for improved security and compliance.  
 
-Effective asset management is critical to understanding which assets are most sensitive and require additional protection.
+Effective asset management ensures all devices and information are properly accounted for, classified by sensitivity, and protected against potential risks.
 
 ---
 
 ## 🔎 Scenario
-- Operating a small home office with multiple network-connected devices.  
-- Goal: Create an inventory of network devices and classify them based on sensitivity.  
-- Devices may include desktops, laptops, smartphones, printers, routers, smart devices, storage devices, and video streaming equipment.  
+- A home office includes multiple devices connected to a network, such as:
+  - Desktop computer
+  - Printer
+  - Router
+  - Webcam
+  - Speakers and headphones
+  - External storage devices  
+
+- As a small business owner, you need to create an inventory of network devices to identify **sensitive assets** requiring extra protection.  
 
 ---
 
-## 🛡️ Objectives
-1. Identify devices connected to the network.  
-2. Document ownership, location, and device type.  
-3. Classify assets based on sensitivity and importance to security.  
+## 🛡️ Asset Management Process
+1. **Identify devices** connected to the network.  
+2. **Classify devices** based on type, owner, location, and level of sensitivity.  
+3. **Track devices** in an inventory to monitor risks and ensure compliance.  
 
 ---
 
 ## 📂 Repository Contents
-- `reports/analysis_report.md` → Detailed asset inventory, classification, and sensitivity assessment.  
+- `reports/analysis_report.md` → Detailed asset management analysis and classification.  
+- `inventory.xlsx` → Excel sheet containing the home office network inventory with asset details.  
 
 ---
 
-## 📖 Benefits
-- Provides a clear overview of network assets.  
-- Helps prioritize protection for high-sensitivity assets.  
-- Improves organizational security and compliance practices.  
+## 📖 References
+- NIST Cybersecurity Framework (Asset Management)  
+- Organizational Asset Management Best Practices  
