@@ -49,7 +49,7 @@ Because the DNS server’s port was blocked or unreachable, the browser could no
 ---
 
 ## 📂 Repository Contents
-- `analysis_report.md` → Detailed incident analysis  
+- `reports/analysis_report.md` → Detailed incident analysis  
 - `traffic_screenshot.png` → Screenshot of captured network traffic   
 
 ---
