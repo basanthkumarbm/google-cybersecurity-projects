@@ -22,7 +22,7 @@ It includes an analysis of a **malicious file download incident** via the HTTP p
 ---
 
 ## 📂 Repository Contents
-- `analysis_report.md` → Detailed incident analysis, traffic logs interpretation, and remediation steps.  
+- `reports/analysis_report.md` → Detailed incident analysis, traffic logs interpretation, and remediation steps.  
 - `tcpdump_logs.png` → Captured network traffic logs showing HTTP requests and malicious file downloads.  
 
 ---
