@@ -23,8 +23,8 @@ The CSF provides a scalable approach to identifying, protecting, detecting, resp
 ---
 
 ## 📂 Repository Contents
-- `analysis_report.md` → Detailed incident report and NIST CSF analysis.  
-
+- `reports/analysis_report.md` → Detailed incident report and NIST CSF analysis.
+  
 ---
 
 ## 📖 References
