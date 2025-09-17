@@ -13,11 +13,6 @@ The ransomware was delivered through **phishing emails** containing malicious at
 
 ---
 
-## 🔧 Tool(s) Used
-- None (manual reporting and response coordination)  
-
----
-
 ## ❓ The 5 W’s
 - **Who:** Organized group of unethical hackers targeting healthcare and transportation industries  
 - **What:** Ransomware attack that encrypted critical patient files and demanded ransom  
