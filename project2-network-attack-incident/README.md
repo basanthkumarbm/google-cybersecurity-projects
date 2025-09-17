@@ -48,7 +48,7 @@ When you attempt to access the company’s website, you receive a **connection t
 ---
 
 ## 📂 Repository Contents
-- `analysis_report.md` → Detailed incident analysis  
+- `reports/analysis_report.md` → Detailed incident analysis  
 
 ---
 
