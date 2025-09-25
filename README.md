@@ -13,7 +13,7 @@ Each project demonstrates my ability to apply **SOC Analyst / Cybersecurity Anal
   - Collected and reviewed packet capture (PCAP) files.  
   - Identified suspicious patterns (port scans, unusual traffic spikes).  
   - Documented findings with screenshots and reports.  
-- **Skills:** Wireshark, TCP/IP analysis, intrusion detection.  
+- **Skills:** TCP/IP analysis, intrusion detection.  
 
 ---
 
